@@ -1,7 +1,8 @@
 # MEAN TODO APP
 
 ## Development server
-Go to folder -> Client
+Go to folder <Client>
+
 Run `ng serve --proxy proxy.config.json` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Server for API Using express and mlab
